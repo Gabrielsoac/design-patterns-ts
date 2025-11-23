@@ -1,0 +1,11 @@
+{
+  "name": "singleton",
+  "version": "1.0.0",
+  "description": "Singleton Design Pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Soares",
+  "license": "ISC"
+}
